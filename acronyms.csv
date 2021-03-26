@@ -846,7 +846,7 @@ acronym,definition
 535,Publ 535: Business Expenses
 5351,Publ 5351: Unsolicited Proposal Guide
 5352,"Publ 5352: Individual Income Tax Returns with Small Business Income and Losses, Tax Years 2015-2017"
-5353,Publ 5353: Fact Sheet for SPEC Partners and Employees Â? Intake & Interview and Quality Review Policy
+5353,Publ 5353: Fact Sheet for SPEC Partners and Employees - Intake & Interview and Quality Review Policy
 5354,Publ 5354: Criminal Tax Bulletin
 5358,Publ 5358: Fact Sheet for SPEC Partners and Employees Filing Season 2020: VITA/TCE Training and Site Materials
 536,"Publ 536: Net Operating Losses (NOLs) for Individuals, Estates, and Trusts"
@@ -955,7 +955,7 @@ acronym,definition
 547,"Publ 547: Casualties, Disasters, and Thefts"
 5470,Publ 5470: Overview of Form 1024 E-Filing Course: Text Version
 5471,Form 5471: Information Return of U.S. Persons With Respect To Certain Foreign Corporations
-5471,Publ 5471: Fact Sheet: Disclosure and Use of Tax Information Â? Internal Revenue Code (IRC) 7216 Requirements for VITA/TCE Partners
+5471,Publ 5471: Fact Sheet: Disclosure and Use of Tax Information - Internal Revenue Code (IRC) 7216 Requirements for VITA/TCE Partners
 5471 (Schedule E),"Form 5471 (Schedule E): Income, War Profits, and Excess Profits Taxes Paid or Accrued"
 5471 (Schedule H),Form 5471 (Schedule H): Current Earnings and Profits
 5471 (Schedule I-1),Form 5471 (Schedule I-1): Information for Global Intangible Low-Taxed Income
@@ -977,7 +977,7 @@ acronym,definition
 5490 ,"Publ 5490 : Get your Money on time, Every Time"
 5494,Publ 5494: IRS Toolkit for Partners: Helping Individuals with the 2021 Tax Filing Season and the 2020 Recovery Rebate Credit
 5495,Form 5495: Request for Discharge from Personal Liability Under Internal Revenue Code Section 2204 or 6905
-5497,"Publ 5497: Photographic Requirements for Art, Antiques, Decorative Arts & Other Cultural Properties Reviewed by Art Appraisal Services and The CommissionerÂ?s Art Advisory Panel"
+5497,"Publ 5497: Photographic Requirements for Art, Antiques, Decorative Arts & Other Cultural Properties Reviewed by Art Appraisal Services and The Commissioner's Art Advisory Panel"
 5498,Form 5498: IRA Contribution Information (Info Copy Only)
 5498,Publ 5498: Individual Retirement Arrangements
 5498-ESA,Form 5498-ESA: Coverdell ESA Contribution Information
@@ -1585,7 +1585,7 @@ COBRA,Consolidated Omnibus Reconciliation Act
 COMPS,Composite Mail Processing System
 COVIDTRA,COVID-Related Tax Relief Act
 CP,Computer Paragraph
-CP2000,Computer Paragraph 2000 or “Notice of Proposed Adjustment for Underpayment/Overpayment CP 2000”
+CP2000,Computer Paragraph 2000 or 'Notice of Proposed Adjustment for Underpayment/Overpayment CP 2000'
 CPL,Cycle Proof Listing
 CPS,Current Population Survey
 CPU,Central Processing Unit
@@ -1733,7 +1733,7 @@ GERL,Good/Error/Reject Block Proof Record List
 GLF,General Ledger File
 GMF,Generalized Mainline Framework
 GMP,Get My Payment (Tool)
-GOALS,Government On–Line Accounting Link System
+GOALS,Government On-Line Accounting Link System
 GPP,General Purpose Program
 GUF,Generalized Unpostable Framework
 HC,Hold Code
@@ -1755,7 +1755,7 @@ IP,Interactive Applications
 IPA,Interagency Personnel Agreement
 IPR,Individual Performance Report
 IRA,Individual Retirement Account
-IRAF,Individual Retirement Account File – No longer used
+IRAF,Individual Retirement Account File - No longer used
 IRC,Internal Revenue Code
 IRM,Internal Revenue Manual
 IRMF,Information Returns Master File
@@ -1782,7 +1782,7 @@ LPS,Last Period Satisfied
 LRA,Last Return Amount
 MACS,Midwest Automated Compliance System
 MAGI,Modified Adjusted Gross Income
-MAR,Mid–Atlantic Region
+MAR,Mid-Atlantic Region
 MCC,Major City Code
 MCC,Martinsburg Computing Center
 MCR,Master Control Record
@@ -1804,14 +1804,14 @@ NAI,National Accounts Index
 NAICS,North American Industry Classification System
 NAMEB/NAMI,Command Code
 NAP,National Account Profile
-NB,Non–Business
+NB,Non-Business
 NBAP,Notice of Beginning of Administrative Procedures
 NCC,National Computing Center
-NECT,Non–Exempt Charitable Trust
+NECT,Non-Exempt Charitable Trust
 NIF,Not In File
-NMF,Non–Master File
+NMF,Non-Master File
 NO,National Office
-NPJ,Non Pre–Journalized
+NPJ,Non Pre-Journalized
 NR,No Remittance
 NRA,Non Resident Alien
 NRP,National Research Program
@@ -1855,14 +1855,14 @@ PFR,Preliminary Findings Report
 PIA,Principal Industry Activity Code
 PICF,Partnership Information Control File
 PINEX,Penalty and Interest Explanations
-PJ,Pre–Journalized
+PJ,Pre-Journalized
 PLC,Primary Location Code
 PLEC,Plan Level Entity Control
 PMF,Payer Master File
 POA,Power of Attorney
 POD,Post of Duty
 PPBS,"Planning, Programming and Budgeting System"
-PRA,Pre–refund Audit
+PRA,Pre-refund Audit
 PRC,Penalty Reason Code
 PRN,Penalty Reference Number
 PRO,Problem Resolution Officer
@@ -1881,7 +1881,7 @@ QRP,Questionable Refund Program
 RA,Revenue Agent
 RAAS,"Research, Applied Analytics, and Statistics (Division)"
 RACS,Revenue Accounting Control System
-RAF,Reporting Agent’s File
+RAF,Reporting Agent's File
 RAL,Refund Anticipation Loan
 RC,Reason Code
 RCA,Refundable Credits Administration
@@ -1939,13 +1939,13 @@ SS-4,Form SS-4: Application for Employer Identification Number
 SS-8,Form SS-8: Determination of Worker Status for Purposes of Federal Employment Taxes and Income Tax Withholding
 SSA,Social Security Act
 SSA,Social Security Administration
-SSA-CAWR,SSA referred CAWR cases with “missing” Forms W-2. Potential Civil penalty case.
+SSA-CAWR,SSA referred CAWR cases with 'missing' Forms W-2. Potential Civil penalty case.
 SSDI,Social Security Disability Insurance
 SSI,Supplemental Security Income
 SSN,Social Security Number
 SSR,Safeguard Security Report
 SSSN,Secondary Social Security Number
-SSSN,Spouse’s SSN
+SSSN,Spouse's SSN
 SST,Social Security Tax
 STEX,Statute Expired
 SUPER,Study of the Utility of Processing Electronic Returns
