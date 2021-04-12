@@ -1075,8 +1075,8 @@ acronym,definition
 706 (Schedule R-1),Form 706 (Schedule R-1): Generating-Skipping Transfer Tax
 706-A,Form 706-A: United States Additional Estate Tax Return
 706-CE,Form 706-CE: Certification of Payment of Foreign Death Tax
-706-GS(D-1),Form 706-GS(D-1): Notification of Distribution From a Generation-Skipping Trust
 706-GS(D),Form 706-GS(D): Generation-Skipping Transfer Tax Return for Distributions
+706-GS(D-1),Form 706-GS(D-1): Notification of Distribution From a Generation-Skipping Trust
 706-NA,Form 706-NA: United States Estate (and Generation-Skipping Transfer) Tax Return Estate of nonresident not a citizen of the United States
 706-QDT,Form 706-QDT: U.S. Estate Tax Return for Qualified Domestic Trusts
 709,Form 709: United States Gift (and Generation-Skipping Transfer) Tax Return
@@ -1574,8 +1574,8 @@ CDW,Compliance Data Warehouse
 CEMIS,Coordinated Examination Management Information System for Large Cases
 CERS,Collection/Exam Referral System
 CES,Correspondence Expert System
-CFf,Collection Function-field
 CFOL,Corporate Files on Line
+CFf,Collection Function-field
 CIS,Correspondence Imaging System
 CLC,Collection Location Code
 CNC,Currently Not Collectable
@@ -1614,7 +1614,6 @@ DAR,Delinquent Accounts and Returns
 DATC,Deferred Adverse Tax Consequence
 DBA,Database Administrator
 DBPS,Daily Block Proof Summary
-DC,Dishonored Check
 DC,Disposal Code
 DC,Document Code
 DCC,Detroit Computing Center
@@ -1671,8 +1670,8 @@ EO,Exempt Organization
 EOD,End-of-Day
 EOM,End of Month
 EOMF,Exempt Organizations Master File
-EOps,Enterprise Operations
 EOS,End-of-Shift
+EOps,Enterprise Operations
 EP,Employee Plans
 EPC,Exemption Processing Code
 EPMF,Employee Plans Master File
@@ -1789,7 +1788,6 @@ MCR,Master Control Record
 MDF,Master Directory File
 ME,Math Error
 MED,Medicare
-MeF,Modernized e File
 MER,Management Error Report
 MF,Master File
 MFA,Married Filing Alien
@@ -1800,6 +1798,7 @@ MIS,Management Information System
 MOP,Military Operations
 MPS,Master File Pipeline System
 MRS,Microfilm Replacement System
+MeF,Modernized e File
 NAI,National Accounts Index
 NAICS,North American Industry Classification System
 NAMEB/NAMI,Command Code
@@ -1866,8 +1865,8 @@ PRA,Pre-refund Audit
 PRC,Penalty Reason Code
 PRN,Penalty Reference Number
 PRO,Problem Resolution Officer
-PRP,Program Requirement Package (Information Technology Services)
 PRP,Problem Resolution Program
+PRP,Program Requirement Package (Information Technology Services)
 PSP,Program and Special Project
 PSSN,Primary Social Security Number
 PTC,Premium Tax Credit
@@ -1924,6 +1923,7 @@ SCUP,Service Center Unpostable
 SD,Source Document
 SDF,Source Document Folders (IDRS)
 SERFE,Selection of Exempt Returns for Examination
+SERP,Servicewide Electronic Research Program
 SFR,Substitute for Return
 SIC,Schedule Indicator Code
 SITLP,State Income Tax Levy Project
